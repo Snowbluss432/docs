@@ -1,4 +1,8 @@
----
+,
+--changelog.md
+#
+2971
+
 title: Adding GitHub App managers in your organization
 intro: 'Organization owners can grant users the ability to manage some or all {% data variables.product.prodname_github_app %}s owned by the organization.'
 redirect_from:
